@@ -22,7 +22,9 @@ Report overviw for 2013 Q4 and 2014 Q4 was created by using revenue, manufacture
 ![2013   2014 Q4 of products and state](https://user-images.githubusercontent.com/72547309/212215578-b0c496e6-44e0-4b52-8277-4f8f5ecd4ebc.jpg)
 
 
-Report on tax was created for products, state, and segment. The key driver of product is Biro, state is osun state and segment is small business. I inserted reset and back button.
+Report on tax was created for products, state, and segment. The key driver of product is Biro, state is osun state and segment is small business. I inserted reset back button.
+
+![Overview for Tax](https://user-images.githubusercontent.com/72547309/212216986-f05052bf-bc37-4a72-b2d9-eb3d0cd16250.jpg)
 
 
 
