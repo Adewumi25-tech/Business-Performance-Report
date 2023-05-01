@@ -23,6 +23,7 @@ The dataset include informations such as segment, state, product, unit sold, man
 ## DATA PREPARATION
 The performing the analysis, the dataset was processed to handle missing values, clean outliers,and ensure consistency. Data transformation and DAX function were applied to create relevant features for analysis.
 
+
 ## ANALYSIS
 ![BUSINESS 2](https://user-images.githubusercontent.com/72547309/235334213-19fe6aa4-e08a-4961-b211-edf121e081eb.jpg)
 
@@ -30,6 +31,7 @@ The performing the analysis, the dataset was processed to handle missing values,
 
 ![BUSINESS 4](https://user-images.githubusercontent.com/72547309/235334281-115b75b4-56ab-4330-803f-236118d34878.jpg)
 
+![BUSINESS 5](https://user-images.githubusercontent.com/72547309/235515842-2fbe53e1-0288-4c2f-9bf3-9a1a8135d5ba.jpg)
 
 ## MODELLING
 
