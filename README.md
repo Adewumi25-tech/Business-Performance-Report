@@ -27,15 +27,21 @@ The performing the analysis, the dataset was processed to handle missing values,
 ## ANALYSIS
 ![BUSINESS 2](https://user-images.githubusercontent.com/72547309/235334213-19fe6aa4-e08a-4961-b211-edf121e081eb.jpg)
 
+Biro has the highest sales proportion.
+
 ![BUSINESS 3](https://user-images.githubusercontent.com/72547309/235334267-40aedeae-57e2-4376-a8be-d4bb8a16b602.jpg)
+
 
 ![BUSINESS 4](https://user-images.githubusercontent.com/72547309/235334281-115b75b4-56ab-4330-803f-236118d34878.jpg)
 
+
 ![BUSINESS 5](https://user-images.githubusercontent.com/72547309/235515842-2fbe53e1-0288-4c2f-9bf3-9a1a8135d5ba.jpg)
+
 
 ## MODELLING
 
 ![BUSINESS 1](https://user-images.githubusercontent.com/72547309/235334172-49f63067-0272-42d8-82f4-87ac505d09b3.jpg)
+
 
 ## DASHBOARD
 I created report overview for segment, state and product against manufacture cost and profit after tax. Total gross sales, revenue and total profit after tax was calculated as measures and was representedas a cards on the report.
