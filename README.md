@@ -21,7 +21,7 @@ The dataset include informations such as segment, state, product, unit sold, man
 * Filter
 
 ## DATA PREPARATION
-The performing the analysis, the dataset was processed to handle missing values, clean outliers,and ensure consistency. Data transformation and DAX function were applied to create relevant features for analysis.
+The dataset was processed to handle missing values, clean outliers,and ensure consistency. Data transformation and DAX function were applied to create relevant features for analysis.
 
 
 ## ANALYSIS
